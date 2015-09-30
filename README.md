@@ -1,2 +1,2 @@
-# paredolia-pictures
+# pareidolia-pictures
 Faces in Places
